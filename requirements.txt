@@ -1,0 +1,5 @@
+# Minimal dependencies for gold_predictor.py and demo.py.
+# The original models/Informer.py and layers/ may require additional packages.
+torch>=2.0,<3
+numpy>=1.24,<3
+einops>=0.6
